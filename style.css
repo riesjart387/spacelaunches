@@ -39,7 +39,7 @@ a:active {
 .balk {
  margin: 5px;
  padding: 5px;
- border: 1px solid black;
+ border: 1px solid #202225;
  background-color: #202225;
  text-align: center;
 }
@@ -62,4 +62,8 @@ table, th, td {
 
 .fotobodem {
 font-style: italic;
+}
+
+.alles {
+font-color: #cccccc;;
 }
