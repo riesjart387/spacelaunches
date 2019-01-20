@@ -1,23 +1,23 @@
 * {
   font-family: 'Open Sans', sans-serif;
-  font-color: white;
+  font-color: #cccccc;
    background-color: #36393e;
 }
 
 h1 {
-  font-color: white;
+  font-color: #cccccc;
   }
   
   /* niet gebruikte link */
 a:link {
-    color: white;
+    color: #cccccc;
 	 text-decoration: none;
 	 font-weight: bold;
 }
 
 /* al gebruikte link */
 a:visited {
-    color: white;
+    color: #cccccc;
 	 text-decoration: none;
 	 font-weight: bold;
 }
