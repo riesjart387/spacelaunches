@@ -50,11 +50,6 @@ a:active {
  width: 40px;
 }
 
-.balk ul li a:hover {
- color: #FFF;
- border-bottom: 3px solid #FFF;
-}
-
 .tussenlijst {
 color: black;
 text-decoration: none;
